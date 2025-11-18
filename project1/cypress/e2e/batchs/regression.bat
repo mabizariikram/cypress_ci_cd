@@ -1,0 +1,1 @@
+npx cypress run --env grepTags=@__regression var=recette
