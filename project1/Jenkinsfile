@@ -17,7 +17,7 @@ pipeline{
                 sh 'npm install'
             }
         }
-        
+
         stage('Run Tests'){
             steps{
                 sh '.cypress/e2e/batchs/login_only.sh'
