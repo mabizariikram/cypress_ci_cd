@@ -1,0 +1,13 @@
+ { 
+ "user":[ 
+   {  "name":"standard_user",
+    "pass":"secret_sauce",
+    "resultat":"ok"
+},
+{
+    "name":"wrong_user",
+    "pass":"wrong_sauce",
+    "resultat":"ko"
+    }
+]
+}
